@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+FMLCorePlugin: appeng.transformer.AppEngCore
+Created-By: 1.7.0_10 (Oracle Corporation)
+FMLCorePluginContainsFMLMod: true
+

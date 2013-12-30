@@ -1,0 +1,15 @@
+{
+  "modinfoversion": 2,
+  "modlist": [{
+	"modid": "OskyCraft",
+	"name": "Osky Craft",
+	"description": "A mod about random sh*t I make.",
+	"version": "v0.2.0",
+	"mcversion": "1.6.4",
+	"url": "http://minecraft.net",
+	"updateUrl": "http://minecraft.net/Downloads/",
+	"authors": [ "Osky2918" ],
+	"credits": "Authored By Osky2918",
+	"requiredMods": [ "Forge" ]
+  }]
+}
